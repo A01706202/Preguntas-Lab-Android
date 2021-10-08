@@ -2,8 +2,9 @@ A01706202
 Michelle Aylin Calzada Montes
 
 **Preguntas Laboratorio 5**
+------------------------------------
 
-1-1) How do you indicate that a class represents an entity to store in a Room database?
+**1-1) How do you indicate that a class represents an entity to store in a Room database?**
 
 Annotate the class with @Entity.
 
