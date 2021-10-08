@@ -20,7 +20,9 @@ You can define tables for a Room database as annotated data classes.
 **1-4) Which of the following annotations can you use in your @Dao interface? Choose all that apply.**
 
 @Update
+
 @Insert
+
 @Query
 
 **1-5) How can you verify that your database is working? Select all that apply.**
